@@ -1,4 +1,4 @@
-# falco-website
+# Falco-Website
 
 ## Contributing logos
 
